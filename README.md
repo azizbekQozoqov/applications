@@ -1,8 +1,9 @@
-# APPLICATIONS
-for Laptops
+# Desktop Applications
 
 - ## Linux applications
-    - [Calculator](calculator)
+    - ## [Calculator](calculator)
+
+![calculator-gui](./.medias/calculator-gui.png)
 
 <br />
 
